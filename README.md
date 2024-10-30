@@ -1,53 +1,51 @@
 ## letsmove
-Let's Move 一项学Move获得SUI的激励计划，鼓励更多的人学习Move语言
+Let's Move is an incentive program to learn Move and earn SUI, encouraging more people to learn the Move language.
 
-## 带奖励的学习任务
-[学习任务](./task)
+## Rewarded Learning Tasks
+[Learning Tasks](./task)
 
-## 社区 & 问答
-- [move中文 TG](https://t.me/move_cn)
-- QQ群: 79489587
+## Community & Q&A
+- [Move Chinese TG](https://t.me/move_cn)
+- QQ Group: 79489587
 
-## bootcamp视频
-| 期数               | 视频                                              |                    源码                    |
+## Bootcamp Videos
+| Session            | Video                                              |                    Source Code                    |
 |:-----------------|-------------------------------------------------|:----------------------------------------:|
-| 2024年4-6月 TinTin | [B站](https://www.bilibili.com/video/BV1Rm42177Kx) | [课程源码](https://github.com/move-cn/tintin-bootcamp) |
+| April-June 2024 TinTin | [Bilibili](https://www.bilibili.com/video/BV1Rm42177Kx) | [Course Source Code](https://github.com/move-cn/tintin-bootcamp) |
 
-
-### 书籍
-| 书名                  | 中文                                              |                          英文                          |                           配套视频                            |
+### Books
+| Title                  | Chinese                                              |                          English                          |                           Supporting Videos                            |
 |:--------------------|-------------------------------------------------|:----------------------------------------------------:|:---------------------------------------------------------:|
-| Move Book           | [中文](https://move.sui-book.com/index.html)      |             [英文](https://move-book.com/)             |                                                   |
-| Move Reference      | [中文](https://reference.sui-book.com/index.html) |        [英文](https://move-book.com/reference/)        |                                                   |
-| Move 导论             | [中文](https://intro-zh.sui-book.com/)            | [Sui Move Intro Course](https://intro.sui-book.com/) |     [bilibili](https://www.bilibili.com/video/BV1RY411v7YU)  [Youtube](https://www.youtube.com/watch?v=lZHjmo2ngu0)                          |
-| Let's Move Sui      | [中文](https://movesui.sui-book.com/)             |        [let's move](https://letsmovesui.com/)        |                                                     |
-| Sui Book            | [中文](https://sui-book.com)                      |                                                      |  |
-| Sui Move by Example | [中文](https://examples.sui-book.com/)            |   [Sui Move by Example](https://examples.sui.io/)    |                                                       |
-| 轻松入门Move            | [轻松入门Move](https://easy.sui-book.com/)          |                                                      |                                                     |
-| Move Master         | [中文](https://master.sui-book.com/)                |       [move master](https://metaschool.so/sui)        |                                                     |
-| move castle         | [中文](https://movecastle.sui-book.com/)                |       [move castle](https://learn.movecastle.info/courses/move-on-sui)        |                                                     |
+| Move Book           | [Chinese](https://move.sui-book.com/index.html)      |             [English](https://move-book.com/)             |                                                   |
+| Move Reference      | [Chinese](https://reference.sui-book.com/index.html) |        [English](https://move-book.com/reference/)        |                                                   |
+| Introduction to Move | [Chinese](https://intro-zh.sui-book.com/)            | [Sui Move Intro Course](https://intro.sui-book.com/) |     [Bilibili](https://www.bilibili.com/video/BV1RY411v7YU)  [Youtube](https://www.youtube.com/watch?v=lZHjmo2ngu0)                          |
+| Let's Move Sui      | [Chinese](https://movesui.sui-book.com/)             |        [Let's Move](https://letsmovesui.com/)        |                                                     |
+| Sui Book            | [Chinese](https://sui-book.com)                      |                                                      |  |
+| Sui Move by Example | [Chinese](https://examples.sui-book.com/)            |   [Sui Move by Example](https://examples.sui.io/)    |                                                       |
+| Easy Introduction to Move | [Easy Introduction to Move](https://easy.sui-book.com/)          |                                                      |                                                     |
+| Move Master         | [Chinese](https://master.sui-book.com/)                |       [Move Master](https://metaschool.so/sui)        |                                                     |
+| Move Castle         | [Chinese](https://movecastle.sui-book.com/)                |       [Move Castle](https://learn.movecastle.info/courses/move-on-sui)        |                                                     |
 
-[学习路径](learning_map.md)
+[Learning Path](learning_map.md)
 
-### 文档
-- [官方文档](https://docs.sui.io/)
+### Documentation
+- [Official Documentation](https://docs.sui.io/)
 
-### 代码库
+### Code Repositories
 - [Sui](https://github.com/MystenLabs/sui)
-
 
 ### SDK
 
 - [Rust SDK](https://docs.sui.io/devnet/build/rust-sdk) (official)
 - [TS/JS SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) (official)
 - [Sui Typescript SDK (community)](https://github.com/scallop-io/sui-kit)
-- [Golang SDK 1 by block vision](https://github.com/block-vision/sui-go-sdk) (community)
-- [Golang SDK 2 by coming chat](https://github.com/coming-chat/go-sui-sdk) (community)
+- [Golang SDK 1 by Block Vision](https://github.com/block-vision/sui-go-sdk) (community)
+- [Golang SDK 2 by Coming Chat](https://github.com/coming-chat/go-sui-sdk) (community)
 - [Python SDK](https://github.com/FrankC01/pysui) (community)
 - [Java SDK](https://github.com/GrapeBaBa/sui4j) (community)
 - [Kotlin SDK](https://github.com/cosmostation/suikotlin) (community)
 - [C# SDK](https://github.com/naami-finance/SuiNet) (community)
 - [Sui Dart SDK](https://github.com/mofalabs/sui) (community)
 - [Sui dApp Kit Vue](https://github.com/SuiCraftTeam/Sui-dApp-Kit-Vue/) (community)
-### 生态项目源码
+### Ecosystem Project Source Code
 
