@@ -1,43 +1,40 @@
-## 情详细阅读本任务指南
+## Please read this task guide carefully
 
-## 任务交流群
-**必须加入任务群发出PR 才会被合并,提交PR一周内不发出PR的视为放弃任务奖励**
-- [move中文 TG](https://t.me/move_cn)
-- QQ群: 79489587
+## Task Group
+**You must join the task group and submit a PR for it to be merged. If you do not submit a PR within a week, you will forfeit the task reward.**
+- [move Chinese TG](https://t.me/move_cn)
+- QQ Group: 79489587
 
-## 如何参与并获取奖励
-**必须加入任务群发出PR 才会被合并,提交PR一周内不发出PR的视为放弃任务奖励**
+## How to Participate and Earn Rewards
+**You must join the task group and submit a PR for it to be merged. If you do not submit a PR within a week, you will forfeit the task reward.**
 
-- 复制 `mover` 目录下的 `001` 并且用自己的 `github id` 命名复制的目录
-- 在 `readme.md` 里面填写个人信息 后面的任务模板暂时不管
-- 在自己`github id`目录的 readme.md 对应的任务列表填写完成信息
-- 提交PR 如果只完成 task 1 用 `完成 task 1` 取名 完成多个 用 `完成 task 1 2 3` 等取名
-- 审核任务完成会把Sui打入 `readme.md` 提供的Sui地址
+- Copy the `001` directory under `mover` and rename the copied directory with your `github id`.
+- Fill in your personal information in `readme.md`. Ignore the task template for now.
+- Fill in the completion information in the task list in the `readme.md` of your `github id` directory.
+- Submit a PR. If you only complete task 1, name it `Complete task 1`. For multiple tasks, use names like `Complete task 1 2 3`, etc.
+- Upon task completion review, Sui will be transferred to the Sui address provided in `readme.md`.
 
+## Important Reminders
+**You must join the task group and submit a PR for it to be merged. If you do not submit a PR within a week, you will forfeit the task reward.**
+- Must include the source code of the assignment.
+- Task 1 must include your `github id`, i.e., hello `github id`.
+- Task 2 must have a Coin name starting with your `github id`, and the faucet Coin is `github id` + `Faucet`.
+- Task 3 NFT must use your GitHub avatar as the image.
+- Task 4 game must include elements of your `github id`, must include random numbers, and must use the `Faucet Coin` from task 2.
+- Task 5 swap must swap the two Coins issued in task 2, and the package name must be your `github id`.
+- Task 6 must complete three steps within a PTB, must include a factor of the current time, and must use dapp-kit.
 
+## Reward Details Please Read the Requirements Carefully
+**You must join the task group and submit a PR for it to be merged. If you do not submit a PR within a week, you will forfeit the task reward.**
 
-## 重要提醒
-**必须加入任务群发出PR 才会被合并,提交PR一周内不发出PR的视为放弃任务奖励**
-- 必须包含作业源代码
-- task 1 必须包含自己的`github id` 也就是 hello `github id`
-- task 2 必须是自己 `github id` 开头的Coin名字,水龙头的Coin是 `github id` + `Faucet`
-- task 3 NFT必须是自己 github 的头像作为图片
-- task 4 的game 必须包含自己的 `github id`的元素, 必须包含随机数，必须用task2的 `Faucet Coin`
-- task 5 swap 必须是 swap 自己发行的 task2 两个 Coin的互换，包名必须是自己的`github id`
-- task 6 必须在一个PTB内完成三步，必须包含当前时间的因子，必须用dapp-kit
-
-
-## 奖励明细 请仔细阅读要求
-**必须加入任务群发出PR 才会被合并,提交PR一周内不发出PR的视为放弃任务奖励**
-
-| 任务                                         | 名称                | 人民币等值Token | 说明                     |
-|:-------------------------------------------|-------------------|:----------:|:-----------------------|
-| [task 1](01.hello_move.md)            | hello move        |    ￥20     | 完成第一个合约部署上链            |
-| [task 2](02.move_coin.md)             | move coin         |    ￥20     | 完成Coin协议学习，并发布两个Coin上链 |
-| [task 3](03.move_nft.md)              | move nft          |    ￥20     | 完成NFT的学习，并发布NFT上链      |
-| [task 4](04.move_game.md)             | move game         |    ￥20     | 完成链上游戏学习，并上链交互         |
-| [task 5](05.move_swap.md)             | move swap         |    ￥20     | 完成Swap学习，并上链交互         |
-| [task 6](06.SDK_PTB_NAVI.md)          | sdk ptb           | ￥20（NAVX）  | 完成SDK学习，并用SDK完成链上交互    |
-| [task 7](07.move_ctf_check_in.md)     | move ctf check in |    ￥20     | 完成move ctf check in    |
-| [task 8](08.move_ctf_lets_move.md)    | move ctf pow      |    ￥20     | 完成move ctf pow   |
-| [defi](https://dacade.org/communities/sui) | defi              |   35SUI    | 完成Defi学习挑战             |
+| Task                                         | Name                | RMB Equivalent Token | Description                     |
+|:-------------------------------------------|-------------------|:-------------------:|:-------------------------------|
+| [task 1](01.hello_move.md)            | hello move        |    ￥20             | Complete the first contract deployment on-chain            |
+| [task 2](02.move_coin.md)             | move coin         |    ￥20             | Complete Coin protocol learning and publish two Coins on-chain |
+| [task 3](03.move_nft.md)              | move nft          |    ￥20             | Complete NFT learning and publish NFT on-chain      |
+| [task 4](04.move_game.md)             | move game         |    ￥20             | Complete on-chain game learning and on-chain interaction         |
+| [task 5](05.move_swap.md)             | move swap         |    ￥20             | Complete Swap learning and on-chain interaction         |
+| [task 6](06.SDK_PTB_NAVI.md)          | sdk ptb           | ￥20 (NAVX)         | Complete SDK learning and use SDK for on-chain interaction    |
+| [task 7](07.move_ctf_check_in.md)     | move ctf check in |    ￥20             | Complete move ctf check in    |
+| [task 8](08.move_ctf_lets_move.md)    | move ctf pow      |    ￥20             | Complete move ctf pow   |
+| [defi](https://dacade.org/communities/sui) | defi              |   35 SUI           | Complete Defi learning challenge             |

@@ -1,50 +1,48 @@
-# 学习路径
+# Learning Path
 
-## 步骤一：前置安装
+## Step 1: Prerequisite Installation
 
-### 安装Sui Wallet
-采用Google插件  
+### Install Sui Wallet
+Use the Google Chrome extension  
 https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil
 
-### 安装Nodejs
-具体安装过程需要自行探索  
+### Install Node.js
+Explore the installation process on your own  
 https://nodejs.org/en  
 
-### 安装编译器
-VSCODE 和 RustRover 二选一即可
+### Install an IDE
+Choose either VSCODE or RustRover
 #### RustRover
-RustRover的报错和提示比较友好，也有成熟的插件  
+RustRover provides friendly error messages and suggestions, along with mature plugins  
 https://www.jetbrains.com.cn/rust/
 #### VSCODE
-容易上手，通用性强  
+Easy to use and highly versatile  
 https://code.visualstudio.com/
 
-### 配置开发环境
+### Set Up Development Environment
 https://docs.sui.io/guides/developer/getting-started/sui-install    
-建议采用从Github下载二进制文件，对小白更友好
+It is recommended to download binary files from Github, which is more beginner-friendly
 
-
-## 步骤二：基本语法学习
-[bilibili教学视频](https://www.bilibili.com/video/BV1Rm42177Kx/) (视频包括基本语法的学习和实战演练  )   
-课程相关代码库:
+## Step 2: Basic Syntax Learning
+[Bilibili Tutorial Video](https://www.bilibili.com/video/BV1Rm42177Kx/) (The video includes learning basic syntax and practical exercises)   
+Course-related code repositories:
 - https://github.com/404ll/letsmove/tree/main/tutorial/bootcamp
-- Swap以及Coin的代码库 https://github.com/uvd/sui-swap-course
+- Swap and Coin code repository https://github.com/uvd/sui-swap-course
 
-完整入门手册，非常详细
-- [轻松入门move](https://easy.sui-book.com/chapter_1.htm)
+Comprehensive beginner's guide, very detailed
+- [Easy Move Introduction](https://easy.sui-book.com/chapter_1.htm)
 
 
-## 步骤三：深入学习以及完成task
+## Step 3: Advanced Learning and Completing Tasks
 
-区块链浏览器：https://suivision.xyz/
+Blockchain Explorer: https://suivision.xyz/
 
-由于教学视频的时间限制，手把手教学来完成每一个task基本是不现实的，同时已有的学习资料已经完全足够从入门到熟练掌握
-因此需要学员有强大的内驱力和学习能力，从已有的文档和代码库中，寻找和学习所需的知识点  
+Due to time constraints in tutorial videos, it is unrealistic to provide step-by-step guidance for each task. However, the existing learning materials are sufficient for mastering the subject from beginner to advanced levels. Therefore, learners need to have strong intrinsic motivation and learning ability to find and study the necessary knowledge points from the available documents and code repositories.
 
-基于官方标准库，可以查询和了解每一个函数的功能及使用方法
+Based on the official standard library, you can query and understand the function and usage of each function
 - https://github.com/MystenLabs/sui/tree/main/crates/sui-framework
  
-探索官方文档（包括Coin协议等等）
+Explore official documentation (including the Coin protocol, etc.)
 - https://docs.sui.io
 
 
